@@ -1,6 +1,6 @@
 baseURL: http://ccie.ch/
 languageCode: en-us
-title: My New Hugo Site
+title: CCIE.ch
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
