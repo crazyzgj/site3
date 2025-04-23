@@ -1,7 +1,6 @@
-baseURL: http://13.48.130.142:8080/
+baseURL: http://ccie.ch/
 languageCode: en-us
 title: My New Hugo Site
-websiteURL: http://13.48.130.142:8080
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
