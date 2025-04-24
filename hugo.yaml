@@ -1,6 +1,6 @@
-baseURL: http://ccie.ch/
+baseURL: http://neteng.ch/
 languageCode: en-us
-title: CCIE.ch
+title: neteng.ch
 theme: ["PaperMod"]
 
 enableInlineShortcodes: true
@@ -53,7 +53,7 @@ outputs:
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   #description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-  author: CCIE.ch
+  author: neteng.ch
   # author: ["Me", "You"] # multiple authors
 
   defaultTheme: auto
@@ -74,7 +74,7 @@ params:
 
   profileMode:
     enabled: false
-    title: CCIE.ch
+    title: neteng.ch
     imageUrl: "#"
     imageTitle: my image
     # imageWidth: 120
@@ -86,11 +86,11 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "CCIEch"
+    Title: "netengch"
     Content: >
-      👋 Welcome to demo page of CCIE.ch!
+      👋 Welcome to demo page of neteng.ch!
 
-      - **CCIE.ch**  is designed to xxx .
+      - **neteng.ch**  is designed to xxx .
 
       - thanks .
 
